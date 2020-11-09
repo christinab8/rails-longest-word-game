@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.grid .letter {
+  display: inline;
+  list-style: none;
+  padding: 10px;
+  background-color: aquamarine;
+  margin: 3px;
+  box-shadow: 0 0 2px gray;
+}
